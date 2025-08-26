@@ -112,7 +112,7 @@ const SLAChart = () => {
   return (
     <div className="bg-[#0f172a] text-white rounded-xl p-6 space-y-6 shadow-lg min-h-screen">
       <div className="text-center">
-        <h2 className="text-2xl font-bold mb-4">Rekap SLA (Dummy)</h2>
+        <h2 className="text-2xl font-bold mb-4">Rekap SLA</h2>
         <div className="flex justify-center gap-3 mb-4">
           <label htmlFor="range">Pilih Range:</label>
           <select
